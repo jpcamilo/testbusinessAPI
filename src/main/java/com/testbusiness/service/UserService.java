@@ -8,7 +8,9 @@ import java.util.List;
 import com.testbusiness.model.UserModel;
 
 /**
- * @author PedrazJ1
+ * Interface service.
+ * 
+ * @author Juan Camilo Pedraza
  *
  */
 public interface UserService {

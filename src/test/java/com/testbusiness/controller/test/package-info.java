@@ -5,4 +5,4 @@
  * @author Juan Camilo Pedraza
  *
  */
-package com.testbusiness.service;
+package com.testbusiness.controller.test;

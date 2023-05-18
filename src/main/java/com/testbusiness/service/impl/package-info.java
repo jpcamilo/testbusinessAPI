@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author PedrazJ1
+ * @author Juan Camilo Pedraza
  *
  */
 package com.testbusiness.service.impl;
