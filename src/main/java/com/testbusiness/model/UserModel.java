@@ -7,7 +7,9 @@ import lombok.Getter;
 import lombok.Setter;
 
 /**
- * @author PedrazJ1
+ * Model
+ * 
+ * @author Juan Camilo Pedraza
  *
  */
 @Getter
